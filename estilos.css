@@ -7,3 +7,8 @@
     padding: 15px 25px;
 }
 
+.cartao-frente, .cartao-verso {
+    width: 100%;
+}
+
+
