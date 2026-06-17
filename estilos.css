@@ -21,9 +21,10 @@
 }
 
 body {
-display: flex;
-flex-direction: column;
-min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ min-height: 100vh;
+ background-color: #f5f2f2;
 }
 
 main {
@@ -32,6 +33,7 @@ main {
 
 .cabecalho-link {
     color: #fff;
+    text-decoration: none;
 }
 
 h1 {
