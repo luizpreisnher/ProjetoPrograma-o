@@ -47,3 +47,10 @@ footer {
     color: #fff;
 }
 
+.cartao-interno {
+    position: relative;
+}
+
+.cartao-frente, .cartao-verso {
+    position: absolute;
+}
